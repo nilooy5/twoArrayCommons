@@ -1,7 +1,7 @@
 import java.util.*;
 public class CommonNumbers {
     public static void main(String[] args) {
-        System.out.println("median3 by Munira Tabassum");
+        System.out.println("Common Distinctive Numbers by Munira Tabassum");
         int[] numArray1 = {6, 34, 5, 1, 9, 1};
         int[] numArray2 = {6, 1, 8, 34, 5};
 
